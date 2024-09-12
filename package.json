@@ -9,9 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "next": "15.0.0-canary.152",
+    "next-intl": "^3.19.1",
+    "nuqs": "^1.19.1",
     "react": "19.0.0-rc-7771d3a7-20240827",
-    "react-dom": "19.0.0-rc-7771d3a7-20240827",
-    "next": "15.0.0-canary.152"
+    "react-dom": "19.0.0-rc-7771d3a7-20240827"
   },
   "devDependencies": {
     "typescript": "^5",
